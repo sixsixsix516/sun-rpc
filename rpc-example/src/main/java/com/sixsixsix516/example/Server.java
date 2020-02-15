@@ -11,7 +11,6 @@ public class Server {
         RpcServer rpcServer = new RpcServer();
         rpcServer.register(CalcService.class,new CalcServiceImpl());
         rpcServer.start();
-
     }
 
 }

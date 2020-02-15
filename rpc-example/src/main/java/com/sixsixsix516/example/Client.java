@@ -15,6 +15,4 @@ public class Client {
         System.out.println("加法 : " + add);
         System.out.println("减法 : " + minus);
     }
-
-
 }
