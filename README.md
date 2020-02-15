@@ -5,6 +5,7 @@
 
 ### 1. 系统简易图
 ![系统简易图](http://sunk.oss-cn-beijing.aliyuncs.com/img/1581748401433_470cc437cf2e4f06a5dfd7ea8b73547c_%E7%B3%BB%E7%BB%9F%E7%AE%80%E6%98%93%E5%9B%BE.png?Expires=11042548401&OSSAccessKeyId=LTAIF1HOJ3o2NLGi&Signature=MnIPKmT4vSE1ZqbMnwBVlwtkyn4%3D)
+![系统简易图](/img/系统简易图.png)
 **三个角色**
 1. 服务端: 即服务提供者,服务端需要将服务注册到 服务管理器 中
 2. 客户端: 服务调用者, 需要去服务
